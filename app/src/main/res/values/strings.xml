@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finy</string>
+    <string name="launch_gallery">Launch Gallery</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="calories">Calories:</string>
+    <string name="enter_weight_of_the_dish">Enter weight of the dish</string>
+</resources>
